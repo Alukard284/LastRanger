@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\LastRanger\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\LastRanger\\Library\\PackageCache\\com.unity.burst@1.8.2\\Runtime\\BurstCompiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.burst@1.8.2\\Runtime\\BurstCompiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59B8BABE-EF29-D70C-A65D-924FCA37DD00}|Assembly-CSharp.csproj|d:\\unity\\\u0443\u0440\u043E\u043A\u0438\\lastranger\\assets\\scripts\\switchweapone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B8BABE-EF29-D70C-A65D-924FCA37DD00}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\switchweapone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\LastRanger\\Library\\PackageCache\\com.unity.render-pipelines.universal@12.1.8\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@12.1.8\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{59B8BABE-EF29-D70C-A65D-924FCA37DD00}|Assembly-CSharp.csproj|D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\LastRanger\\assets\\scripts\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B8BABE-EF29-D70C-A65D-924FCA37DD00}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B8BABE-EF29-D70C-A65D-924FCA37DD00}|Assembly-CSharp.csproj|D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\LastRanger\\assets\\scripts\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B8BABE-EF29-D70C-A65D-924FCA37DD00}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,36 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BurstCompiler.cs",
-              "DocumentMoniker": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\LastRanger\\Library\\PackageCache\\com.unity.burst@1.8.2\\Runtime\\BurstCompiler.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.burst@1.8.2\\Runtime\\BurstCompiler.cs",
-              "ToolTip": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\LastRanger\\Library\\PackageCache\\com.unity.burst@1.8.2\\Runtime\\BurstCompiler.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.burst@1.8.2\\Runtime\\BurstCompiler.cs",
-              "ViewState": "AQIAANoCAAAAAAAAAADwvwEDAAAWAAAA",
+              "DocumentIndex": 2,
+              "Title": "PlayerInput.cs",
+              "DocumentMoniker": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\LastRanger\\Assets\\Scripts\\PlayerInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInput.cs",
+              "ToolTip": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\LastRanger\\Assets\\Scripts\\PlayerInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T14:42:58.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-04-21T09:01:00.38Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Lit.shader",
-              "DocumentMoniker": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\LastRanger\\Library\\PackageCache\\com.unity.render-pipelines.universal@12.1.8\\Shaders\\Lit.shader",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@12.1.8\\Shaders\\Lit.shader",
-              "ToolTip": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\LastRanger\\Library\\PackageCache\\com.unity.render-pipelines.universal@12.1.8\\Shaders\\Lit.shader",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@12.1.8\\Shaders\\Lit.shader",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2024-03-28T09:22:00.458Z",
+              "Title": "PlayerAnimation.cs",
+              "DocumentMoniker": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\LastRanger\\Assets\\Scripts\\PlayerAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAnimation.cs",
+              "ToolTip": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\LastRanger\\Assets\\Scripts\\PlayerAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerAnimation.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwC8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:58:58.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwitchWeapone.cs",
+              "DocumentMoniker": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\LastRanger\\Assets\\Scripts\\SwitchWeapone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SwitchWeapone.cs",
+              "ToolTip": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\LastRanger\\Assets\\Scripts\\SwitchWeapone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SwitchWeapone.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAADwv0wAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:32:16.387Z",
               "EditorCaption": ""
             }
           ]
